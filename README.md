@@ -1,4 +1,5 @@
-### Hi there 👋
+### Yo I'm Gijs
+Yo my name is Gijs and welcome to my GitHub. I don't really have anything interesting to say atm, but some projects I'm pretty proud of is my OpenGL Voxel engine. Currently studying CS in Groningen atm, hopefully I will be able to top my Voxel Engine pretty soon.
 
 <!--
 **gijs-i/gijs-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
